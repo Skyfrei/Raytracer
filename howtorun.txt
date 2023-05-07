@@ -1,0 +1,6 @@
+clang++ -std=c++11 main.cpp ./pugixml/src/pugixml.cpp
+then enter the name of the scene, for example
+
+./scenes/example3.xml
+
+./scenes/example4.xml
